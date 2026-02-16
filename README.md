@@ -1,4 +1,4 @@
-Customizable 
+![logo](https://github.com/Ashthapanday/Ashthapanday/blob/main/WhatsApp%20Image%202026-02-16%20at%2012.10.33%20PM.jpeg )
 <h1 align="center">Hi 👋, I'm Ashtha Pandey</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="14.gif">
